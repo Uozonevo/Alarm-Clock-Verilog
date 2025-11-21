@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Apr 11 08:07:04 2024
+# Process ID: 14552
+# Current directory: C:/ECE/ECE3300L/Alarm_Clock
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11896 C:\ECE\ECE3300L\Alarm_Clock\Alarm_Clock.xpr
+# Log file: C:/ECE/ECE3300L/Alarm_Clock/vivado.log
+# Journal file: C:/ECE/ECE3300L/Alarm_Clock\vivado.jou
+# Running On: DESKTOP-BSI61R4, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 8, Host memory: 6387 MB
+#-----------------------------------------------------------
+start_gui
